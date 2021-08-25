@@ -1,3 +1,5 @@
-/* .table__text {
-
-} */
+.table__text {
+  line-height: 112%;
+  font-size: 18px;
+  font-weight: 400;
+}
